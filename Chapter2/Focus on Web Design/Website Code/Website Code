@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Comparing Two Websites</title>
+  </head>
+  <body>
+    <h1>Appealing Website</h1>
+    <h2>Question 1: What is the URL of the website?</h2>
+    <p>https://www.google.com/</p>
+    
+    <h2>Question 2: Is the page appealing or unappealing? List three reasons for your answer.</h2>
+    <p>I found this page to be appealing for a couple reasons:</p>
+    <ul>
+        <li>The page is nice to look at and also quite simple in design, which helps users not be overwhelmed</li>
+        <li>The page has easy to use links to other parts of the Google browser, like Google images</li>
+        <li>The page has a nice big logo, with a simple search bar to search for material on the Internet</li>
+      </ul>
+    <h2>Question 3: If the page is unappealing, what would you do to improve it?</h2>
+    <h2>Question 4: Would you encourage others to visit this site? Why or why not?</h2>
+    <p>I would encourage others to visit this site since it is simple to use and quite visually pleasing</p>
+    <hr>
+
+    <h1>Unappealing Website</h1>
+    <h2>Question 1: What is the URL of the website?</h2>
+    <p>https://www.art.yale.edu/</p>
+        
+    <h2>Question 2: Is the page appealing or unappealing? List three reasons for your answer.</h2>
+    <p>I found this page to be unappealing for a couple reasons:</p>
+    <ul>
+        <li>The page has too many varying fonts and colors, and makes the website look overwhelming and kind of ugly</li>
+        <li>The page has weird layouts for its elements on the screen</li>
+        <li>The page's navigation area is weirdly desgined and has a weird layout</li>
+        </ul>
+        
+    <h2>Question 3: If the page is unappealing, what would you do to improve it?</h2>
+    <p>I would change colors and font sizes first, and then resdesign the layout of all of the elements on the screen</p>
+
+    <h2>Question 4: Would you encourage others to visit this site? Why or why not?</h2>
+    <p>I would not encourage others to visit this website. Because of the design mistakes on this website, the website is hard to look at and navigate</p>
+  </body>
+</html>
